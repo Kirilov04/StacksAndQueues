@@ -1,0 +1,15 @@
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.exe
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.deps.json
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.runtimeconfig.json
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.dll
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.pdb
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.dll
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\refint\BasicStackOperations.dll
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.pdb
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.genruntimeconfig.cache
+C:\Users\teodo\source\repos\StacksAndQueues\BasicStackOperations\obj\Debug\net6.0\ref\BasicStackOperations.dll
